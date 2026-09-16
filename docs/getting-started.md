@@ -19,7 +19,7 @@ CHIRIMEN に「何かコントリビュートしてみたい」と思った人�
 
 コードを伴う貢献もあります。どこを変更するかは [Where to Contribute](./where-to-contribute.md) を見てください。
 
-- **Example の追加・修正** — サンプルコードの改善や追加
+- **Example の追加・修正** — サンプルコードの改善や追加。手順は [Pi Zero ESM Example](./examples/pizero-esm-examples.md) を見てください
 - **デバイスドライバ** — センサーやアクチュエータ向けドライバの追加・修正
 
 ## 最初に確認するページ
@@ -46,3 +46,4 @@ CHIRIMEN そのものを知りたいときは、公式サイト [chirimen.org](h
 - [Where to Contribute](./where-to-contribute.md) — どのリポジトリを変更すればよいか
 - [GitHub workflow](./github-workflow.md) — 最初の Pull Request までの流れ
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
+- [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順
