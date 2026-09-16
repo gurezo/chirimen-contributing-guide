@@ -20,7 +20,7 @@ chirimen-oh Organization への移管または
 
 ## GitHub の使い方が分からない
 
-→ GitHub workflow
+→ [GitHub workflow](docs/github-workflow.md)
 
 ## 相談したい
 
