@@ -29,7 +29,7 @@ CHIRIMEN に「何かコントリビュートしてみたい」と思った人�
 1. このガイド — 貢献の種類と相談先を知る
 2. [Where to Contribute](./where-to-contribute.md) — 何を変えたいときに、どのリポジトリを見るか
 3. [GitHub workflow](./github-workflow.md) — Fork から Pull Request までの進め方
-4. [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け（準備中: [#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）
+4. [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
 
 CHIRIMEN そのものを知りたいときは、公式サイト [chirimen.org](https://chirimen.org/) も参考にしてください。
 
@@ -37,7 +37,7 @@ CHIRIMEN そのものを知りたいときは、公式サイト [chirimen.org](h
 
 迷ったら、まず [chirimen-oh Organization の Discussions](https://github.com/orgs/chirimen-oh/discussions) に書いてください。
 
-対象リポジトリが分かっている場合は、そのリポジトリの Issue でも構いません。Discussion / Issue / Pull Request の使い分けは [専用ガイド](./discussions-issues-pull-requests.md) を見てください（準備中: [#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）。
+対象リポジトリが分かっている場合は、そのリポジトリの Issue でも構いません。Discussion / Issue / Pull Request の使い分けは [専用ガイド](./discussions-issues-pull-requests.md) を見てください。
 
 判断できなければ、Discussion からで問題ありません。既存のメンテナーに個別で聞かなくても、コミュニティで相談できます。
 
@@ -45,4 +45,4 @@ CHIRIMEN そのものを知りたいときは、公式サイト [chirimen.org](h
 
 - [Where to Contribute](./where-to-contribute.md) — どのリポジトリを変更すればよいか
 - [GitHub workflow](./github-workflow.md) — 最初の Pull Request までの流れ
-- [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け（準備中: [#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）
+- [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け

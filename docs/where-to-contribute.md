@@ -10,7 +10,7 @@
 
 対象リポジトリが分からないときは、まず [chirimen-oh Organization の Discussions](https://github.com/orgs/chirimen-oh/discussions) に書いてください。
 
-対象リポジトリが分かっている場合は、そのリポジトリの Issue でも構いません。Discussion / Issue / Pull Request の使い分けは [専用ガイド](./discussions-issues-pull-requests.md) を見てください（準備中: [#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）。
+対象リポジトリが分かっている場合は、そのリポジトリの Issue でも構いません。Discussion / Issue / Pull Request の使い分けは [専用ガイド](./discussions-issues-pull-requests.md) を見てください。
 
 判断できなければ、Discussion からで問題ありません。
 
@@ -86,5 +86,5 @@ GPIO や I2C そのものの runtime 実装ではなく、個別デバイスを�
 
 - [Getting Started](./getting-started.md) — 貢献の種類と相談先
 - [GitHub workflow](./github-workflow.md) — Fork から Pull Request までの進め方
-- [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け（準備中: [#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）
+- [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
 - [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順（準備中: [#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6)）
