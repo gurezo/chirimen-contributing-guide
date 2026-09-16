@@ -85,6 +85,6 @@ GPIO や I2C そのものの runtime 実装ではなく、個別デバイスを�
 ## 次に読む
 
 - [Getting Started](./getting-started.md) — 貢献の種類と相談先
-- [GitHub workflow](./github-workflow.md) — Fork から Pull Request までの進め方（準備中: [#4](https://github.com/gurezo/chirimen-contributing-guide/issues/4)）
+- [GitHub workflow](./github-workflow.md) — Fork から Pull Request までの進め方
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け（準備中: [#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）
 - [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順（準備中: [#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6)）
