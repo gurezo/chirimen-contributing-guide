@@ -17,7 +17,7 @@ CHIRIMEN に「何かコントリビュートしてみたい」と思った人�
 - **バグ報告** — うまく動かない点を Issue として共有する
 - **初心者向け Issue** — `good first issue` など、初めてでも取り組みやすい Issue に取り組む
 
-コードを伴う貢献もあります。どこを変更するかは [Where to Contribute](./where-to-contribute.md) を見てください（準備中: [#3](https://github.com/gurezo/chirimen-contributing-guide/issues/3)）。
+コードを伴う貢献もあります。どこを変更するかは [Where to Contribute](./where-to-contribute.md) を見てください。
 
 - **Example の追加・修正** — サンプルコードの改善や追加
 - **デバイスドライバ** — センサーやアクチュエータ向けドライバの追加・修正
@@ -27,7 +27,7 @@ CHIRIMEN に「何かコントリビュートしてみたい」と思った人�
 次の順で読むと、最初の行動を決めやすくなります。
 
 1. このガイド — 貢献の種類と相談先を知る
-2. [Where to Contribute](./where-to-contribute.md) — 何を変えたいときに、どのリポジトリを見るか（準備中: [#3](https://github.com/gurezo/chirimen-contributing-guide/issues/3)）
+2. [Where to Contribute](./where-to-contribute.md) — 何を変えたいときに、どのリポジトリを見るか
 3. [GitHub workflow](./github-workflow.md) — Fork から Pull Request までの進め方（準備中: [#4](https://github.com/gurezo/chirimen-contributing-guide/issues/4)）
 4. [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け（準備中: [#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）
 
@@ -43,6 +43,6 @@ CHIRIMEN そのものを知りたいときは、公式サイト [chirimen.org](h
 
 ## 次に読む
 
-- [Where to Contribute](./where-to-contribute.md) — どのリポジトリを変更すればよいか（準備中: [#3](https://github.com/gurezo/chirimen-contributing-guide/issues/3)）
+- [Where to Contribute](./where-to-contribute.md) — どのリポジトリを変更すればよいか
 - [GitHub workflow](./github-workflow.md) — 最初の Pull Request までの流れ（準備中: [#4](https://github.com/gurezo/chirimen-contributing-guide/issues/4)）
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け（準備中: [#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）
