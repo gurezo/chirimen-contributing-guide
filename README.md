@@ -24,4 +24,4 @@ chirimen-oh Organization への移管または
 
 ## 相談したい
 
-→ Discussions and Issues
+→ [Discussion / Issue / Pull Request](docs/discussions-issues-pull-requests.md)

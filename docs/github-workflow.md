@@ -36,7 +36,7 @@ GitHub や OSS へのコントリビュート経験が少ない人向けに、Fo
 
 typo やリンク切れなど、小さな修正では Issue を必須としない場合があります。一方で、対象リポジトリが「作業前に Issue を立てる」と書いているときは、その手順に従ってください。
 
-Discussion / Issue / Pull Request の使い分けは [専用ガイド](./discussions-issues-pull-requests.md) を見てください（準備中: [#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）。
+Discussion / Issue / Pull Request の使い分けは [専用ガイド](./discussions-issues-pull-requests.md) を見てください。
 
 ## 必要に応じて相談する
 
@@ -118,5 +118,5 @@ GitHub で Fork したリポジトリを開き、**Compare & pull request** ま�
 
 - [Getting Started](./getting-started.md) — 貢献の種類と相談先
 - [Where to Contribute](./where-to-contribute.md) — どのリポジトリを変更すればよいか
-- [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け（準備中: [#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）
+- [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
 - [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順（準備中: [#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6)）
