@@ -12,7 +12,7 @@ chirimen-oh Organization への移管または
 
 ## 初めての方
 
-→ Getting Started
+→ [Getting Started](docs/getting-started.md)
 
 ## 何を変更したいですか？
 
