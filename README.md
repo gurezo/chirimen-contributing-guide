@@ -16,7 +16,7 @@ chirimen-oh Organization への移管または
 
 ## 何を変更したいですか？
 
-→ Where to contribute
+→ [Where to contribute](docs/where-to-contribute.md)
 
 ## GitHub の使い方が分からない
 
