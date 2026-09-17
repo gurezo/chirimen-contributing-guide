@@ -29,3 +29,7 @@ chirimen-oh Organization への移管または
 ## Example を追加・修正したい
 
 → [Pi Zero ESM Example](docs/examples/pizero-esm-examples.md)
+
+## 既存の contribution 情報
+
+→ [既存 contribution ドキュメントの棚卸し](docs/existing-contribution-docs.md)
