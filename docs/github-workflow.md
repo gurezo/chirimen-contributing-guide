@@ -4,7 +4,7 @@ GitHub や OSS へのコントリビュート経験が少ない人向けに、Fo
 
 このページは一般的な GitHub 操作の案内です。新しい運用ルールは定めません。対象リポジトリに `CONTRIBUTING.md` がある場合は、そちらの手順を優先してください。
 
-このリポジトリは現在、コントリビュート方法を整理するための Draft / Incubation です。内容が固まったら、chirimen-oh Organization への移管や各リポジトリへの統合を検討します。
+このリポジトリは現在、コントリビュート方法を整理するための Draft / Incubation です。内容が固まったら、chirimen-oh Organization への移管や各リポジトリへの統合を検討します。比較材料は [移管・統合提案](./migration-integration-proposal.md) にあります。
 
 ## 全体の流れ
 
@@ -121,3 +121,4 @@ GitHub で Fork したリポジトリを開き、**Compare & pull request** ま�
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
 - [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順
 - [既存 contribution ドキュメントの棚卸し](./existing-contribution-docs.md) — 既存情報の重複・不足・要確認
+- [chirimen-oh への移管・統合提案](./migration-integration-proposal.md) — 将来の配置の比較材料

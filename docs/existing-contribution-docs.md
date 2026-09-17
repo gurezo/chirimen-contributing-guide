@@ -4,7 +4,7 @@ CHIRIMEN に現在存在する contribution 関連情報を、公開ページか
 
 このページは既存の公開情報を整理したものです。新しい運用ルールは定めません。対象リポジトリに `CONTRIBUTING.md` がある場合は、そちらの手順を優先してください。
 
-このリポジトリは現在、コントリビュート方法を整理するための Draft / Incubation です。内容が固まったら、chirimen-oh Organization への移管や各リポジトリへの統合を検討します。移管方法の提案は [#8](https://github.com/gurezo/chirimen-contributing-guide/issues/8) の対象です。
+このリポジトリは現在、コントリビュート方法を整理するための Draft / Incubation です。内容が固まったら、chirimen-oh Organization への移管や各リポジトリへの統合を検討します。比較材料は [移管・統合提案](./migration-integration-proposal.md) にあります。
 
 調査日: 2026-09-17。公開情報だけを見ています。リンク切れや現行と食い違う記述は、推測で埋めず Needs confirmation に回しています。
 
@@ -71,6 +71,7 @@ Issue [#7](https://github.com/gurezo/chirimen-contributing-guide/issues/7) が�
 - [GitHub workflow](./github-workflow.md) — Fork から Pull Request（[#4](https://github.com/gurezo/chirimen-contributing-guide/issues/4)）
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 使い分け（[#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）
 - [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正（[#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6)）
+- [chirimen-oh への移管・統合提案](./migration-integration-proposal.md) — 将来の配置の比較材料（[#8](https://github.com/gurezo/chirimen-contributing-guide/issues/8)）
 
 ## Duplicated documentation
 
@@ -137,7 +138,7 @@ Issue [#7](https://github.com/gurezo/chirimen-contributing-guide/issues/7) が�
 | Discussion / Issue / Pull Request | 本ガイドで文書化済み（#5） | 相談先の分散を、判断材料として整理 |
 | Pi Zero ESM Example | 本ガイドで文書化済み（#6） | Missing のうち公式リポジトリ内手順を補完 |
 | 既存ドキュメントの棚卸し | このページ（#7） | Existing / Duplicated / Missing / Undocumented / Needs confirmation |
-| `chirimen-oh` への移管・統合 | [#8](https://github.com/gurezo/chirimen-contributing-guide/issues/8)。本ページでは書かない | Duplicated の解消先と、Single source of truth の検討材料 |
+| `chirimen-oh` への移管・統合 | 本ガイドで文書化済み（[#8](https://github.com/gurezo/chirimen-contributing-guide/issues/8)、[移管・統合提案](./migration-integration-proposal.md)） | Duplicated の解消先と、Single source of truth の検討材料。推奨構成は選ばない |
 
 v0.1 の対象外（親 Issue の Out of scope）は、ここでも扱いません。
 
@@ -155,3 +156,4 @@ v0.1 の対象外（親 Issue の Out of scope）は、ここでも扱いませ�
 - [GitHub workflow](./github-workflow.md) — Fork から Pull Request までの進め方
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
 - [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順
+- [chirimen-oh への移管・統合提案](./migration-integration-proposal.md) — 将来の配置の比較材料

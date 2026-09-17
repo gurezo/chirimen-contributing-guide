@@ -8,7 +8,8 @@ gurezo 配下で管理しています。
 
 内容が整理された段階で、
 chirimen-oh Organization への移管または
-各リポジトリへの統合を提案する予定です。
+各リポジトリへの統合を検討します。
+比較材料は [移管・統合提案](docs/migration-integration-proposal.md) にあります。
 
 ## 初めての方
 
@@ -33,3 +34,7 @@ chirimen-oh Organization への移管または
 ## 既存の contribution 情報
 
 → [既存 contribution ドキュメントの棚卸し](docs/existing-contribution-docs.md)
+
+## 移管・統合について
+
+→ [chirimen-oh への移管・統合提案](docs/migration-integration-proposal.md)

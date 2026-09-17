@@ -2,7 +2,7 @@
 
 「何を変更したいとき、どのリポジトリを使うのか」を判断するための案内です。
 
-このリポジトリは現在、コントリビュート方法を整理するための Draft / Incubation です。内容が固まったら、chirimen-oh Organization への移管や各リポジトリへの統合を検討します。
+このリポジトリは現在、コントリビュート方法を整理するための Draft / Incubation です。内容が固まったら、chirimen-oh Organization への移管や各リポジトリへの統合を検討します。比較材料は [移管・統合提案](./migration-integration-proposal.md) にあります。
 
 このページは既存の公開情報を整理したものです。新しい運用ルールは定めません。役割がまだはっきりしない点は、末尾の Needs confirmation に分けて書いてあります。
 
@@ -89,3 +89,4 @@ GPIO や I2C そのものの runtime 実装ではなく、個別デバイスを�
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
 - [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順
 - [既存 contribution ドキュメントの棚卸し](./existing-contribution-docs.md) — 既存情報の重複・不足・要確認
+- [chirimen-oh への移管・統合提案](./migration-integration-proposal.md) — 将来の配置の比較材料
