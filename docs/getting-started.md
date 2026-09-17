@@ -4,7 +4,7 @@ CHIRIMEN に「何かコントリビュートしてみたい」と思った人�
 
 コードを書かなくても参加できます。ドキュメントの修正、動作確認、バグ報告なども歓迎しています。
 
-このリポジトリは現在、コントリビュート方法を整理するための Draft / Incubation です。内容が固まったら、chirimen-oh Organization への移管や各リポジトリへの統合を検討します。
+このリポジトリは現在、コントリビュート方法を整理するための Draft / Incubation です。内容が固まったら、chirimen-oh Organization への移管や各リポジトリへの統合を検討します。比較材料は [移管・統合提案](./migration-integration-proposal.md) にあります。
 
 ## コントリビュートの種類
 
@@ -48,3 +48,4 @@ CHIRIMEN そのものを知りたいときは、公式サイト [chirimen.org](h
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
 - [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順
 - [既存 contribution ドキュメントの棚卸し](./existing-contribution-docs.md) — 既存情報の重複・不足・要確認
+- [chirimen-oh への移管・統合提案](./migration-integration-proposal.md) — 将来の配置の比較材料

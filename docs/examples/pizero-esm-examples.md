@@ -4,7 +4,7 @@
 
 このページは既存の公開情報と実装から読み取れることを整理したものです。新しい運用ルールは定めません。対象リポジトリに `CONTRIBUTING.md` がある場合は、そちらの手順を優先してください。
 
-このリポジトリは現在、コントリビュート方法を整理するための Draft / Incubation です。内容が固まったら、chirimen-oh Organization への移管や各リポジトリへの統合を検討します。
+このリポジトリは現在、コントリビュート方法を整理するための Draft / Incubation です。内容が固まったら、chirimen-oh Organization への移管や各リポジトリへの統合を検討します。比較材料は [移管・統合提案](../migration-integration-proposal.md) にあります。
 
 最初の版では、完全な手順書ではなく、確認できたことと未確認事項を分けて書きます。
 
@@ -267,3 +267,4 @@ Remote Example は、Pi Zero 側で `node main.js`、PC/スマホ側で `pc/` �
 - [GitHub workflow](../github-workflow.md) — Fork から Pull Request までの進め方
 - [Discussion / Issue / Pull Request](../discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
 - [既存 contribution ドキュメントの棚卸し](../existing-contribution-docs.md) — 既存情報の重複・不足・要確認
+- [chirimen-oh への移管・統合提案](../migration-integration-proposal.md) — 将来の配置の比較材料
