@@ -105,4 +105,4 @@ Fork から Pull Request までの操作は [GitHub workflow](./github-workflow.
 - [Getting Started](./getting-started.md) — 貢献の種類と相談先
 - [Where to Contribute](./where-to-contribute.md) — どのリポジトリを変更すればよいか
 - [GitHub workflow](./github-workflow.md) — Fork から Pull Request までの進め方
-- [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順（準備中: [#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6)）
+- [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順

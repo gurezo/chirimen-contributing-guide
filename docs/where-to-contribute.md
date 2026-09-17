@@ -34,7 +34,7 @@
 - 向いている変更: サイト本文、チュートリアル、Pi Zero ESM Example の追加・修正
 - コントリビュート手順: [CONTRIBUTING.md](https://github.com/chirimen-oh/chirimen.org/blob/master/CONTRIBUTING.md)
 
-Pi Zero ESM Example の置き場所は、このリポジトリの `pizero/src/esm-examples` です。アーカイブ済みの [`chirimen-oh/examples`](https://github.com/chirimen-oh/examples) ではありません。追加・修正の詳しい手順は [Pi Zero ESM Example ガイド](./examples/pizero-esm-examples.md) を見てください（準備中: [#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6)）。
+Pi Zero ESM Example の置き場所は、このリポジトリの `pizero/src/esm-examples` です。アーカイブ済みの [`chirimen-oh/examples`](https://github.com/chirimen-oh/examples) ではありません。追加・修正の詳しい手順は [Pi Zero ESM Example ガイド](./examples/pizero-esm-examples.md) を見てください。
 
 ### chirimen-drivers
 
@@ -87,4 +87,4 @@ GPIO や I2C そのものの runtime 実装ではなく、個別デバイスを�
 - [Getting Started](./getting-started.md) — 貢献の種類と相談先
 - [GitHub workflow](./github-workflow.md) — Fork から Pull Request までの進め方
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
-- [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順（準備中: [#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6)）
+- [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順
