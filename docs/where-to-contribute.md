@@ -88,3 +88,4 @@ GPIO や I2C そのものの runtime 実装ではなく、個別デバイスを�
 - [GitHub workflow](./github-workflow.md) — Fork から Pull Request までの進め方
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
 - [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順
+- [既存 contribution ドキュメントの棚卸し](./existing-contribution-docs.md) — 既存情報の重複・不足・要確認

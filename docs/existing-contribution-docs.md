@@ -70,7 +70,7 @@ Issue [#7](https://github.com/gurezo/chirimen-contributing-guide/issues/7) が�
 - [Where to Contribute](./where-to-contribute.md) — どのリポジトリを変更するか（[#3](https://github.com/gurezo/chirimen-contributing-guide/issues/3)）
 - [GitHub workflow](./github-workflow.md) — Fork から Pull Request（[#4](https://github.com/gurezo/chirimen-contributing-guide/issues/4)）
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 使い分け（[#5](https://github.com/gurezo/chirimen-contributing-guide/issues/5)）
-- Pi Zero ESM Example の追加・修正手順は [#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6)（調査時点では本リポジトリの `main` には未マージ）
+- [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正（[#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6)）
 
 ## Duplicated documentation
 
@@ -91,7 +91,7 @@ Issue [#7](https://github.com/gurezo/chirimen-contributing-guide/issues/7) が�
 - Organization 共通の contribution 入口。各リポジトリの `CONTRIBUTING.md` を横断して「何から始めるか」を案内する公式ページは、chirimen-oh 配下には無い。本リポジトリが Draft / Incubation として担っている
 - `node-web-gpio` / `node-web-i2c` の `CONTRIBUTING.md`。README は使い方のみ
 - `chirimen` / `chirimen-micro-bit` / `chirimen-lite` の contribution 手順
-- Pi Zero ESM Example（`pizero/src/esm-examples`）の、`chirimen.org` リポジトリ内の追加・修正手順。本ガイドの [#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6) で補完中
+- Pi Zero ESM Example（`pizero/src/esm-examples`）の、`chirimen.org` リポジトリ内の追加・修正手順。本ガイドの [Pi Zero ESM Example](./examples/pizero-esm-examples.md) で補完済み
 - 初心者向けの「どのリポジトリを触るか」の公式マップ。本ガイドの [Where to Contribute](./where-to-contribute.md) で補完済み
 - Discussion / Issue / Pull Request の Organization 共通の使い分け。本ガイドの [専用ページ](./discussions-issues-pull-requests.md) で補完済み
 - Organization Discussions の Q&A の運用。カテゴリはあるが、このガイド作成時点では投稿がほとんど見当たらない
@@ -135,7 +135,7 @@ Issue [#7](https://github.com/gurezo/chirimen-contributing-guide/issues/7) が�
 | Repository responsibility map | 本ガイドで文書化済み（#3） | Missing のうち「どのリポジトリか」を補完。未確認は Needs confirmation に残す |
 | GitHub contribution workflow | 本ガイドで文書化済み（#4） | 分散している Fork → PR の説明を、初心者向けに一箇所へ |
 | Discussion / Issue / Pull Request | 本ガイドで文書化済み（#5） | 相談先の分散を、判断材料として整理 |
-| Pi Zero ESM Example | #6。調査時点では `main` 未マージ | 公式リポジトリ内手順が Missing |
+| Pi Zero ESM Example | 本ガイドで文書化済み（#6） | Missing のうち公式リポジトリ内手順を補完 |
 | 既存ドキュメントの棚卸し | このページ（#7） | Existing / Duplicated / Missing / Undocumented / Needs confirmation |
 | `chirimen-oh` への移管・統合 | [#8](https://github.com/gurezo/chirimen-contributing-guide/issues/8)。本ページでは書かない | Duplicated の解消先と、Single source of truth の検討材料 |
 
@@ -154,4 +154,4 @@ v0.1 の対象外（親 Issue の Out of scope）は、ここでも扱いませ�
 - [Where to Contribute](./where-to-contribute.md) — どのリポジトリを変更すればよいか
 - [GitHub workflow](./github-workflow.md) — Fork から Pull Request までの進め方
 - [Discussion / Issue / Pull Request](./discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
-- [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順（準備中: [#6](https://github.com/gurezo/chirimen-contributing-guide/issues/6)）
+- [Pi Zero ESM Example](./examples/pizero-esm-examples.md) — Example の追加・修正手順

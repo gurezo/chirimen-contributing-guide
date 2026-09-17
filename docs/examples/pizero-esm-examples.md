@@ -266,3 +266,4 @@ Remote Example は、Pi Zero 側で `node main.js`、PC/スマホ側で `pc/` �
 - [Where to Contribute](../where-to-contribute.md) — どのリポジトリを変更すればよいか
 - [GitHub workflow](../github-workflow.md) — Fork から Pull Request までの進め方
 - [Discussion / Issue / Pull Request](../discussions-issues-pull-requests.md) — 相談・報告・提案の使い分け
+- [既存 contribution ドキュメントの棚卸し](../existing-contribution-docs.md) — 既存情報の重複・不足・要確認
